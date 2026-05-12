@@ -1,0 +1,12 @@
+{
+    "file": "login_logs.txt",
+    "prediction": "Suspicious",
+    "threat_score": 80,
+    "confidence": 91,
+    "reasons": [
+        "Failed privileged logins before successful user login",
+        "Off-hours authentication",
+        "Sensitive database access"
+    ],
+    "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+}

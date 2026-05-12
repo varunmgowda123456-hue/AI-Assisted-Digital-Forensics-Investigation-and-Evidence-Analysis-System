@@ -1,0 +1,7 @@
+Insider Data Theft Investigation - Project Titan
+================================================
+
+The insider theft evidence shows off-hours access, credential exposure, cloud storage research, USB insertion, and hidden archive transfer activity.
+
+Conclusion:
+Evidence supports a critical insider data theft investigation. Preserve endpoint image, removable media, authentication logs, and cloud access logs.

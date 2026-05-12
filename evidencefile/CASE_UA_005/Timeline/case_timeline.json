@@ -1,0 +1,44 @@
+[
+    {
+        "timestamp": "2026-05-12 01:00:00",
+        "event": "Brute Force Started",
+        "description": "High-frequency SSH failures from 192.168.50.22.",
+        "severity": "critical",
+        "source": "unauthorized_access"
+    },
+    {
+        "timestamp": "2026-05-12 01:05:00",
+        "event": "Initial Access",
+        "description": "Admin login accepted after repeated failures.",
+        "severity": "critical",
+        "source": "unauthorized_access"
+    },
+    {
+        "timestamp": "2026-05-12 01:10:00",
+        "event": "Privilege Discovery",
+        "description": "sudo and SUID discovery commands executed.",
+        "severity": "high",
+        "source": "unauthorized_access"
+    },
+    {
+        "timestamp": "2026-05-12 01:12:00",
+        "event": "Privilege Escalation",
+        "description": "Effective UID changed to root.",
+        "severity": "critical",
+        "source": "unauthorized_access"
+    },
+    {
+        "timestamp": "2026-05-12 01:15:00",
+        "event": "Remote Session",
+        "description": "New SSH session established.",
+        "severity": "high",
+        "source": "unauthorized_access"
+    },
+    {
+        "timestamp": "2026-05-12 01:19:00",
+        "event": "Sensitive File Transfer",
+        "description": "SCP transfer of shadow file indicator.",
+        "severity": "critical",
+        "source": "unauthorized_access"
+    }
+]

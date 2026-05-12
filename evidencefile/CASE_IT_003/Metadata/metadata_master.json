@@ -1,0 +1,183 @@
+{
+    "case_id": "CASE_IT_003",
+    "case_title": "Insider Data Theft Investigation - Project Titan",
+    "case_type": "Insider Data Theft Investigation",
+    "threat_level": "Critical",
+    "investigation_status": "Active",
+    "generated_at": "2026-05-12T19:31:05.506195",
+    "evidence_count": 6,
+    "integrity_summary": {
+        "verified": 6,
+        "tampered": 0
+    },
+    "metadata": [
+        {
+            "case_id": "CASE_IT_003",
+            "file": "login_logs.txt",
+            "relative_path": "Logs/login_logs.txt",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_IT_003\\Logs\\login_logs.txt",
+            "file_size": 298,
+            "sha256": "3f6b295fbb8c222e4eb255d55e80ca1e87f21866ccc75b291a56ade95be91a78",
+            "md5": "972e296af713d789b86a9a4a829b90d6",
+            "created_at": "2026-05-12T02:12:00",
+            "modified_at": "2026-05-12T02:12:00",
+            "accessed_at": "2026-05-12T02:12:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 80,
+            "confidence_score": 91,
+            "ai_analysis": {
+                "file": "login_logs.txt",
+                "prediction": "Suspicious",
+                "threat_score": 80,
+                "confidence": 91,
+                "reasons": [
+                    "Failed privileged logins before successful user login",
+                    "Off-hours authentication",
+                    "Sensitive database access"
+                ],
+                "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+            }
+        },
+        {
+            "case_id": "CASE_IT_003",
+            "file": "usb_activity.log",
+            "relative_path": "Logs/usb_activity.log",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_IT_003\\Logs\\usb_activity.log",
+            "file_size": 225,
+            "sha256": "9725bd80b27b77492b38b209fcb03adb45b4102a738accbcbce5ae2c1fb90fa4",
+            "md5": "bf99928e3ae53c3fd9ac5b87fa945ea0",
+            "created_at": "2026-05-12T02:45:00",
+            "modified_at": "2026-05-12T02:45:00",
+            "accessed_at": "2026-05-12T02:45:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 92,
+            "confidence_score": 96,
+            "ai_analysis": {
+                "file": "usb_activity.log",
+                "prediction": "Critical",
+                "threat_score": 92,
+                "confidence": 96,
+                "reasons": [
+                    "USB transfer during off-hours",
+                    "Large write to removable media",
+                    "Hidden archive filename"
+                ],
+                "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+            }
+        },
+        {
+            "case_id": "CASE_IT_003",
+            "file": "browser_history.csv",
+            "relative_path": "Network/browser_history.csv",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_IT_003\\Network\\browser_history.csv",
+            "file_size": 274,
+            "sha256": "394650c1ff5fad6323370a5c7060c4c6172addf264f2b45b732df74c3d3b938a",
+            "md5": "cd8fd2c79dfed46877dccb82544b8c6c",
+            "created_at": "2026-05-12T02:40:00",
+            "modified_at": "2026-05-12T02:40:00",
+            "accessed_at": "2026-05-12T02:40:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 78,
+            "confidence_score": 90,
+            "ai_analysis": {
+                "file": "browser_history.csv",
+                "prediction": "Suspicious",
+                "threat_score": 78,
+                "confidence": 90,
+                "reasons": [
+                    "Cloud storage browsing",
+                    "Log clearing research",
+                    "Archive utility download"
+                ],
+                "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+            }
+        },
+        {
+            "case_id": "CASE_IT_003",
+            "file": "passwords.txt",
+            "relative_path": "Documents/passwords.txt",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_IT_003\\Documents\\passwords.txt",
+            "file_size": 115,
+            "sha256": "b2010f575ded507fca715096dc3527adebfb309452a2c5588339184431962bf9",
+            "md5": "68de4d55e22f06d8d94edc0edf75d1bb",
+            "created_at": "2026-05-12T02:25:00",
+            "modified_at": "2026-05-12T02:25:00",
+            "accessed_at": "2026-05-12T02:25:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 94,
+            "confidence_score": 97,
+            "ai_analysis": {
+                "file": "passwords.txt",
+                "prediction": "Critical",
+                "threat_score": 94,
+                "confidence": 97,
+                "reasons": [
+                    "Credential-like strings detected",
+                    "Sensitive keywords found",
+                    "Correlated with off-hours access"
+                ],
+                "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+            }
+        },
+        {
+            "case_id": "CASE_IT_003",
+            "file": "confidential_data.zip",
+            "relative_path": "Evidence/confidential_data.zip",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_IT_003\\Evidence\\confidential_data.zip",
+            "file_size": 51200,
+            "sha256": "97e9834c4630dfa0a3c0cf9728915e438b62f71ba5797eeaae7f030f6989f4de",
+            "md5": "6d008a622eddd60a2de4ef2815a18de0",
+            "created_at": "2026-05-12T02:33:00",
+            "modified_at": "2026-05-12T02:33:00",
+            "accessed_at": "2026-05-12T02:33:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 86,
+            "confidence_score": 92,
+            "ai_analysis": {
+                "file": "confidential_data.zip",
+                "prediction": "Suspicious",
+                "threat_score": 86,
+                "confidence": 92,
+                "reasons": [
+                    "Compressed confidential dataset",
+                    "High entropy archive-like content",
+                    "Potential staging artifact"
+                ],
+                "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+            }
+        },
+        {
+            "case_id": "CASE_IT_003",
+            "file": ".hidden_backup.zip",
+            "relative_path": "Evidence/.hidden_backup.zip",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_IT_003\\Evidence\\.hidden_backup.zip",
+            "file_size": 65536,
+            "sha256": "efd48c334440d1d08ed3df63e04f273717af922b809516e3bc908012848b37e8",
+            "md5": "e74c8a12a2fbb2794740534cb840f9b1",
+            "created_at": "2026-05-12T02:35:00",
+            "modified_at": "2026-05-12T02:35:00",
+            "accessed_at": "2026-05-12T02:35:00",
+            "hidden_status": true,
+            "integrity_status": "Verified",
+            "threat_score": 96,
+            "confidence_score": 98,
+            "ai_analysis": {
+                "file": ".hidden_backup.zip",
+                "prediction": "Critical",
+                "threat_score": 96,
+                "confidence": 98,
+                "reasons": [
+                    "Hidden archive detected",
+                    "High entropy content",
+                    "Correlated with USB write event"
+                ],
+                "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+            }
+        }
+    ]
+}

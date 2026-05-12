@@ -1,0 +1,12 @@
+{
+    "file": "encrypted_files.log",
+    "prediction": "Critical",
+    "threat_score": 94,
+    "confidence": 96,
+    "reasons": [
+        "Mass file encryption pattern",
+        "Multiple business-critical paths affected",
+        "Ransomware extension observed"
+    ],
+    "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+}

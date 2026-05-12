@@ -1,0 +1,12 @@
+{
+    "file": "firewall_logs.txt",
+    "prediction": "Suspicious",
+    "threat_score": 75,
+    "confidence": 87,
+    "reasons": [
+        "SSH traffic allowed",
+        "Post-login outbound data volume",
+        "Same source across multiple sessions"
+    ],
+    "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+}

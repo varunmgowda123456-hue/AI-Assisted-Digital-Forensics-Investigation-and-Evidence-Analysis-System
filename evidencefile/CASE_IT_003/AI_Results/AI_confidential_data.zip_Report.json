@@ -1,0 +1,12 @@
+{
+    "file": "confidential_data.zip",
+    "prediction": "Suspicious",
+    "threat_score": 86,
+    "confidence": 92,
+    "reasons": [
+        "Compressed confidential dataset",
+        "High entropy archive-like content",
+        "Potential staging artifact"
+    ],
+    "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+}

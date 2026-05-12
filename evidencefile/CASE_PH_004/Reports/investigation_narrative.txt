@@ -1,0 +1,7 @@
+Phishing Attack Investigation - Credential Harvesting Campaign
+==============================================================
+
+The phishing case shows delivery of a lookalike Microsoft security email, redirect to a fake portal, credential harvesting indicators, and unauthorized mailbox access.
+
+Conclusion:
+Evidence supports a high-severity credential phishing incident requiring mailbox audit, password reset, MFA validation, and domain/URL blocking.

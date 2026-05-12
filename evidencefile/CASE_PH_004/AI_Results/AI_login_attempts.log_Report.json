@@ -1,0 +1,12 @@
+{
+    "file": "login_attempts.log",
+    "prediction": "Critical",
+    "threat_score": 91,
+    "confidence": 95,
+    "reasons": [
+        "Successful login after phishing delivery",
+        "Suspicious foreign IP",
+        "Mailbox rule creation after compromise"
+    ],
+    "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+}

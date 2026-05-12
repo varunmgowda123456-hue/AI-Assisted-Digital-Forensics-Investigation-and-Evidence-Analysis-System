@@ -1,0 +1,153 @@
+{
+    "case_id": "CASE_CB_002",
+    "case_title": "Cyberbullying Investigation - Coordinated Harassment Report",
+    "case_type": "Cyberbullying Investigation",
+    "threat_level": "High",
+    "investigation_status": "Under Review",
+    "generated_at": "2026-05-12T19:31:02.460306",
+    "evidence_count": 5,
+    "integrity_summary": {
+        "verified": 5,
+        "tampered": 0
+    },
+    "metadata": [
+        {
+            "case_id": "CASE_CB_002",
+            "file": "abusive_messages.txt",
+            "relative_path": "Documents/abusive_messages.txt",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_CB_002\\Documents\\abusive_messages.txt",
+            "file_size": 251,
+            "sha256": "a0694ff055b7f06728d8892e0d5879f125568d1e9c66150607fb1687e806806b",
+            "md5": "be2e1332b0bbdbd590af0d793d5bd581",
+            "created_at": "2026-05-11T14:30:00",
+            "modified_at": "2026-05-11T14:30:00",
+            "accessed_at": "2026-05-11T14:30:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 88,
+            "confidence_score": 94,
+            "ai_analysis": {
+                "file": "abusive_messages.txt",
+                "prediction": "Suspicious",
+                "threat_score": 88,
+                "confidence": 94,
+                "reasons": [
+                    "Threatening language detected",
+                    "Coercion and intimidation pattern",
+                    "Repeated targeted messages"
+                ],
+                "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+            }
+        },
+        {
+            "case_id": "CASE_CB_002",
+            "file": "chat_logs.csv",
+            "relative_path": "Logs/chat_logs.csv",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_CB_002\\Logs\\chat_logs.csv",
+            "file_size": 442,
+            "sha256": "2c884b189e9c78b070782bfb3862fca1e19f3e9ea7b453169fee69f32e07affe",
+            "md5": "4ed4ad2c4870d2d1db11f3f9eafe6e94",
+            "created_at": "2026-05-11T15:25:00",
+            "modified_at": "2026-05-11T15:25:00",
+            "accessed_at": "2026-05-11T15:25:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 90,
+            "confidence_score": 95,
+            "ai_analysis": {
+                "file": "chat_logs.csv",
+                "prediction": "Suspicious",
+                "threat_score": 90,
+                "confidence": 95,
+                "reasons": [
+                    "High toxicity scores",
+                    "Multiple senders targeting one victim",
+                    "Threatening and coercive statements"
+                ],
+                "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+            }
+        },
+        {
+            "case_id": "CASE_CB_002",
+            "file": "email_records.txt",
+            "relative_path": "Documents/email_records.txt",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_CB_002\\Documents\\email_records.txt",
+            "file_size": 249,
+            "sha256": "93703b193caf2c9060f47ba87ff72d3d8f41e3462229a0464ccee4e7207fa661",
+            "md5": "0d25a01c8ec21203d0e59546a0c60795",
+            "created_at": "2026-05-11T17:40:00",
+            "modified_at": "2026-05-11T17:40:00",
+            "accessed_at": "2026-05-11T17:40:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 58,
+            "confidence_score": 84,
+            "ai_analysis": {
+                "file": "email_records.txt",
+                "prediction": "Relevant",
+                "threat_score": 58,
+                "confidence": 84,
+                "reasons": [
+                    "Corroborating report",
+                    "Victim disclosure timeline evidence"
+                ],
+                "recommended_action": "Retain as supporting evidence."
+            }
+        },
+        {
+            "case_id": "CASE_CB_002",
+            "file": "chat_capture_001.png",
+            "relative_path": "Screenshots/chat_capture_001.png",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_CB_002\\Screenshots\\chat_capture_001.png",
+            "file_size": 82,
+            "sha256": "84655d866d060e4c00b18f009542adb38777c80b5a42a7fff449fe270e191294",
+            "md5": "fbb9d438f5f78dd4c904ffb2f8e91d80",
+            "created_at": "2026-05-11T15:32:00",
+            "modified_at": "2026-05-11T15:32:00",
+            "accessed_at": "2026-05-11T15:32:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 72,
+            "confidence_score": 86,
+            "ai_analysis": {
+                "file": "chat_capture_001.png",
+                "prediction": "Relevant",
+                "threat_score": 72,
+                "confidence": 86,
+                "reasons": [
+                    "Screenshot placeholder supports chat evidence",
+                    "Preserved as visual corroboration"
+                ],
+                "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+            }
+        },
+        {
+            "case_id": "CASE_CB_002",
+            "file": "social_media_activity.log",
+            "relative_path": "Logs/social_media_activity.log",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_CB_002\\Logs\\social_media_activity.log",
+            "file_size": 329,
+            "sha256": "78c49f031486a064f8ca49c14ef922b9b5b15da692225dd9d57322f6004522a6",
+            "md5": "68ec045738580a3ae984cce32a0f09a0",
+            "created_at": "2026-05-11T16:12:00",
+            "modified_at": "2026-05-11T16:12:00",
+            "accessed_at": "2026-05-11T16:12:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 84,
+            "confidence_score": 91,
+            "ai_analysis": {
+                "file": "social_media_activity.log",
+                "prediction": "Suspicious",
+                "threat_score": 84,
+                "confidence": 91,
+                "reasons": [
+                    "Public harassment escalation",
+                    "Coordinated amplification",
+                    "Multiple platform reports"
+                ],
+                "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+            }
+        }
+    ]
+}

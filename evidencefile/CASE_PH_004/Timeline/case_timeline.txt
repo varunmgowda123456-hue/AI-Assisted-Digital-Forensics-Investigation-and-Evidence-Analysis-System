@@ -1,0 +1,6 @@
+2026-05-11 09:31:00 | HIGH | Phishing Email Delivered | Lookalike Microsoft security email delivered.
+2026-05-11 09:41:00 | HIGH | Victim Clicked Link | Redirect to fake login portal observed.
+2026-05-11 09:48:00 | MEDIUM | Fake Portal Captured | Screenshot preserved for fake login page.
+2026-05-11 10:04:00 | CRITICAL | Credential Harvested | Credential dump indicator created.
+2026-05-11 10:06:00 | CRITICAL | Unauthorized Login | Target account accessed from suspicious IP.
+2026-05-11 10:08:00 | HIGH | Mailbox Rule Created | Post-compromise mailbox rule observed.

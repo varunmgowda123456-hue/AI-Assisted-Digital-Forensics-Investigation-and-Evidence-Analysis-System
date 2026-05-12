@@ -1,0 +1,6 @@
+From: counselor@school.example
+To: guardian@example.org
+Date: 2026-05-11 17:40:00
+Subject: Reported online harassment incident
+
+The student reported repeated targeted messages, public shaming posts, and threats to publish private screenshots.

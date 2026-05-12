@@ -1,0 +1,17 @@
+{
+    "case_id": "CASE_CB_002",
+    "title": "Cyberbullying Investigation - Coordinated Harassment Report",
+    "type": "Cyberbullying Investigation",
+    "threat_level": "High",
+    "status": "Under Review",
+    "executive_summary": "The evidence shows a coordinated harassment pattern beginning in private chat and escalating to public social media amplification.",
+    "forensic_conclusion": "Evidence supports a high-severity cyberbullying investigation with preserved chat logs, screenshots, platform activity, and corroborating notification records.",
+    "key_findings": [
+        "Repeated targeted abusive messages",
+        "Multiple senders coordinated against one victim",
+        "Public shaming and repost behavior observed",
+        "Email record corroborates victim report"
+    ],
+    "evidence_count": 5,
+    "highest_threat_score": 90
+}

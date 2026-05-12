@@ -1,0 +1,154 @@
+{
+    "case_id": "CASE_PH_004",
+    "case_title": "Phishing Attack Investigation - Credential Harvesting Campaign",
+    "case_type": "Phishing Attack Investigation",
+    "threat_level": "High",
+    "investigation_status": "In Progress",
+    "generated_at": "2026-05-12T19:31:06.119426",
+    "evidence_count": 5,
+    "integrity_summary": {
+        "verified": 5,
+        "tampered": 0
+    },
+    "metadata": [
+        {
+            "case_id": "CASE_PH_004",
+            "file": "phishing_emails.txt",
+            "relative_path": "Documents/phishing_emails.txt",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_PH_004\\Documents\\phishing_emails.txt",
+            "file_size": 339,
+            "sha256": "0729ab61ee2437dd114e05b1b4e87602c2541e88d28d39f742015042f0a29450",
+            "md5": "18c7b456532c50a03b0bc32bbdf05f8b",
+            "created_at": "2026-05-11T09:31:00",
+            "modified_at": "2026-05-11T09:31:00",
+            "accessed_at": "2026-05-11T09:31:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 92,
+            "confidence_score": 96,
+            "ai_analysis": {
+                "file": "phishing_emails.txt",
+                "prediction": "Critical",
+                "threat_score": 92,
+                "confidence": 96,
+                "reasons": [
+                    "Brand impersonation",
+                    "Urgency language",
+                    "Credential harvesting URL"
+                ],
+                "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+            }
+        },
+        {
+            "case_id": "CASE_PH_004",
+            "file": "malicious_links.csv",
+            "relative_path": "Network/malicious_links.csv",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_PH_004\\Network\\malicious_links.csv",
+            "file_size": 267,
+            "sha256": "a8f65b25c609d84300c5556987b2356f0d3072f3b1839d4dd1dde5963bd61102",
+            "md5": "c36d45a6037dffdd5dc3cdeaf2050179",
+            "created_at": "2026-05-11T09:35:00",
+            "modified_at": "2026-05-11T09:35:00",
+            "accessed_at": "2026-05-11T09:35:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 89,
+            "confidence_score": 94,
+            "ai_analysis": {
+                "file": "malicious_links.csv",
+                "prediction": "Suspicious",
+                "threat_score": 89,
+                "confidence": 94,
+                "reasons": [
+                    "Suspicious redirect chain",
+                    "Lookalike login domain",
+                    "URL shortener observed"
+                ],
+                "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+            }
+        },
+        {
+            "case_id": "CASE_PH_004",
+            "file": "credential_dump.txt",
+            "relative_path": "Documents/credential_dump.txt",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_PH_004\\Documents\\credential_dump.txt",
+            "file_size": 90,
+            "sha256": "aebd550aa16064a0ce0f4e673cb211708c62e1dd1f27def686e6d5faf624aac8",
+            "md5": "16df19fdbccbe6c004961f2d208c247c",
+            "created_at": "2026-05-11T10:04:00",
+            "modified_at": "2026-05-11T10:04:00",
+            "accessed_at": "2026-05-11T10:04:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 95,
+            "confidence_score": 97,
+            "ai_analysis": {
+                "file": "credential_dump.txt",
+                "prediction": "Critical",
+                "threat_score": 95,
+                "confidence": 97,
+                "reasons": [
+                    "Credential dump pattern",
+                    "MFA token indicator",
+                    "Correlated with phishing URL click"
+                ],
+                "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+            }
+        },
+        {
+            "case_id": "CASE_PH_004",
+            "file": "fake_website_capture.png",
+            "relative_path": "Screenshots/fake_website_capture.png",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_PH_004\\Screenshots\\fake_website_capture.png",
+            "file_size": 93,
+            "sha256": "5b6d504c4dbb1ff04ab6cbbc3afa7811daa725816c35372b4cd808b9f90209a3",
+            "md5": "6b6d75afaf02ee88fc4396fa3c7b8559",
+            "created_at": "2026-05-11T09:48:00",
+            "modified_at": "2026-05-11T09:48:00",
+            "accessed_at": "2026-05-11T09:48:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 76,
+            "confidence_score": 88,
+            "ai_analysis": {
+                "file": "fake_website_capture.png",
+                "prediction": "Relevant",
+                "threat_score": 76,
+                "confidence": 88,
+                "reasons": [
+                    "Fake website visual capture",
+                    "Supports phishing portal analysis"
+                ],
+                "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+            }
+        },
+        {
+            "case_id": "CASE_PH_004",
+            "file": "login_attempts.log",
+            "relative_path": "Logs/login_attempts.log",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_PH_004\\Logs\\login_attempts.log",
+            "file_size": 316,
+            "sha256": "fbeaea0bce8d45d593ddb27ee64d5f7672dc12e86c2326609f0ad6d7619d63c4",
+            "md5": "b584276cdff0468d279289db8a689c2a",
+            "created_at": "2026-05-11T10:09:00",
+            "modified_at": "2026-05-11T10:09:00",
+            "accessed_at": "2026-05-11T10:09:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 91,
+            "confidence_score": 95,
+            "ai_analysis": {
+                "file": "login_attempts.log",
+                "prediction": "Critical",
+                "threat_score": 91,
+                "confidence": 95,
+                "reasons": [
+                    "Successful login after phishing delivery",
+                    "Suspicious foreign IP",
+                    "Mailbox rule creation after compromise"
+                ],
+                "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+            }
+        }
+    ]
+}

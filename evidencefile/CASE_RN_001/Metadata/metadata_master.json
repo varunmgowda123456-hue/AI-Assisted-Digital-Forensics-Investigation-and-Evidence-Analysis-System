@@ -1,0 +1,209 @@
+{
+    "case_id": "CASE_RN_001",
+    "case_title": "Ransomware Attack Investigation - Finance Workstation Cluster",
+    "case_type": "Ransomware Attack",
+    "threat_level": "Critical",
+    "investigation_status": "In Progress",
+    "generated_at": "2026-05-12T19:31:01.983779",
+    "evidence_count": 7,
+    "integrity_summary": {
+        "verified": 7,
+        "tampered": 0
+    },
+    "metadata": [
+        {
+            "case_id": "CASE_RN_001",
+            "file": "ransom_note.txt",
+            "relative_path": "Documents/ransom_note.txt",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_RN_001\\Documents\\ransom_note.txt",
+            "file_size": 252,
+            "sha256": "18f0d82b42f8b719bac11fad2c49b0a9535646f67793fdfd9a9fe34aba23b46c",
+            "md5": "7842b85644f782b78a83b93869e8a451",
+            "created_at": "2026-05-10T23:13:00",
+            "modified_at": "2026-05-10T23:13:00",
+            "accessed_at": "2026-05-10T23:13:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 98,
+            "confidence_score": 97,
+            "ai_analysis": {
+                "file": "ransom_note.txt",
+                "prediction": "Critical",
+                "threat_score": 98,
+                "confidence": 97,
+                "reasons": [
+                    "Ransom note language detected",
+                    "Payment demand identified",
+                    "File recovery coercion observed"
+                ],
+                "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+            }
+        },
+        {
+            "case_id": "CASE_RN_001",
+            "file": "encrypted_files.log",
+            "relative_path": "Logs/encrypted_files.log",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_RN_001\\Logs\\encrypted_files.log",
+            "file_size": 393,
+            "sha256": "5e117a8ce0320a312a4454ac202f9c4e821669b22e5778f85fa70e4d7da8d2b8",
+            "md5": "fc0477d4bec5e824fe75d9e2b6cde211",
+            "created_at": "2026-05-10T23:11:00",
+            "modified_at": "2026-05-10T23:11:00",
+            "accessed_at": "2026-05-10T23:11:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 94,
+            "confidence_score": 96,
+            "ai_analysis": {
+                "file": "encrypted_files.log",
+                "prediction": "Critical",
+                "threat_score": 94,
+                "confidence": 96,
+                "reasons": [
+                    "Mass file encryption pattern",
+                    "Multiple business-critical paths affected",
+                    "Ransomware extension observed"
+                ],
+                "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+            }
+        },
+        {
+            "case_id": "CASE_RN_001",
+            "file": "suspicious_processes.log",
+            "relative_path": "Logs/suspicious_processes.log",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_RN_001\\Logs\\suspicious_processes.log",
+            "file_size": 362,
+            "sha256": "edbdbfa34dfd9e831331f31f26c76cefae96c2e7cc80936c33b8c45293811e6a",
+            "md5": "d00d409781b7a2c2ee5d23de126abf0c",
+            "created_at": "2026-05-10T23:00:00",
+            "modified_at": "2026-05-10T23:00:00",
+            "accessed_at": "2026-05-10T23:00:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 95,
+            "confidence_score": 96,
+            "ai_analysis": {
+                "file": "suspicious_processes.log",
+                "prediction": "Critical",
+                "threat_score": 95,
+                "confidence": 96,
+                "reasons": [
+                    "Shadow copy deletion command",
+                    "Suspicious executable from public user directory",
+                    "Recovery controls disabled"
+                ],
+                "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+            }
+        },
+        {
+            "case_id": "CASE_RN_001",
+            "file": "malware_execution.log",
+            "relative_path": "Logs/malware_execution.log",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_RN_001\\Logs\\malware_execution.log",
+            "file_size": 352,
+            "sha256": "d6e2d11f0b9d945b097bd9c0835f23f390d8349cc2ad2248f608336d48eb8452",
+            "md5": "4401edd1840e82af3113d0170b23fe13",
+            "created_at": "2026-05-10T23:01:00",
+            "modified_at": "2026-05-10T23:01:00",
+            "accessed_at": "2026-05-10T23:01:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 93,
+            "confidence_score": 95,
+            "ai_analysis": {
+                "file": "malware_execution.log",
+                "prediction": "Critical",
+                "threat_score": 93,
+                "confidence": 95,
+                "reasons": [
+                    "Execution sequence consistent with ransomware",
+                    "Privilege-impacting commands observed"
+                ],
+                "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+            }
+        },
+        {
+            "case_id": "CASE_RN_001",
+            "file": "bitcoin_wallet.txt",
+            "relative_path": "Documents/bitcoin_wallet.txt",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_RN_001\\Documents\\bitcoin_wallet.txt",
+            "file_size": 132,
+            "sha256": "3c975199f38439646f8000311428b74a23dec9c717c2291d8bee45c8ca32e0e1",
+            "md5": "a765ed74ad92ae104ce4dc08ad8d7f79",
+            "created_at": "2026-05-10T23:14:00",
+            "modified_at": "2026-05-10T23:14:00",
+            "accessed_at": "2026-05-10T23:14:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 82,
+            "confidence_score": 92,
+            "ai_analysis": {
+                "file": "bitcoin_wallet.txt",
+                "prediction": "Suspicious",
+                "threat_score": 82,
+                "confidence": 92,
+                "reasons": [
+                    "Cryptocurrency payment indicator",
+                    "Correlated with ransom demand"
+                ],
+                "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+            }
+        },
+        {
+            "case_id": "CASE_RN_001",
+            "file": "firewall_logs.txt",
+            "relative_path": "Network/firewall_logs.txt",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_RN_001\\Network\\firewall_logs.txt",
+            "file_size": 277,
+            "sha256": "7a2c7bbc06716a1ad33a73af294be230da3ec380e20eb8e2f99a07fb4b8b5e2f",
+            "md5": "7f4cef71c85e531524d81808ff745594",
+            "created_at": "2026-05-10T22:55:00",
+            "modified_at": "2026-05-10T22:55:00",
+            "accessed_at": "2026-05-10T22:55:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 88,
+            "confidence_score": 91,
+            "ai_analysis": {
+                "file": "firewall_logs.txt",
+                "prediction": "Suspicious",
+                "threat_score": 88,
+                "confidence": 91,
+                "reasons": [
+                    "External command-and-control style traffic",
+                    "High-risk destination port",
+                    "Multiple finance hosts involved"
+                ],
+                "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+            }
+        },
+        {
+            "case_id": "CASE_RN_001",
+            "file": "system_events.log",
+            "relative_path": "System/system_events.log",
+            "absolute_path": "d:\\Antigravity\\Antigravity\\cc and cf\\evidencefile\\CASE_RN_001\\System\\system_events.log",
+            "file_size": 293,
+            "sha256": "b681d7965d73352dd4bc5230b0257aaf0ae214e15b0f0bf08c2ae97a77db1e1e",
+            "md5": "93da1b9e2457e3bf7e784b74c6c895c8",
+            "created_at": "2026-05-10T22:50:00",
+            "modified_at": "2026-05-10T22:50:00",
+            "accessed_at": "2026-05-10T22:50:00",
+            "hidden_status": false,
+            "integrity_status": "Verified",
+            "threat_score": 86,
+            "confidence_score": 93,
+            "ai_analysis": {
+                "file": "system_events.log",
+                "prediction": "Suspicious",
+                "threat_score": 86,
+                "confidence": 93,
+                "reasons": [
+                    "Backup service disabled",
+                    "Volume shadow service stopped",
+                    "Correlates with encryption window"
+                ],
+                "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+            }
+        }
+    ]
+}

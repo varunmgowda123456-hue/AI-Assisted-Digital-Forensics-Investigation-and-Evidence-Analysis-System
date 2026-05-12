@@ -1,0 +1,17 @@
+{
+    "case_id": "CASE_PH_004",
+    "title": "Phishing Attack Investigation - Credential Harvesting Campaign",
+    "type": "Phishing Attack Investigation",
+    "threat_level": "High",
+    "status": "In Progress",
+    "executive_summary": "The phishing case shows delivery of a lookalike Microsoft security email, redirect to a fake portal, credential harvesting indicators, and unauthorized mailbox access.",
+    "forensic_conclusion": "Evidence supports a high-severity credential phishing incident requiring mailbox audit, password reset, MFA validation, and domain/URL blocking.",
+    "key_findings": [
+        "Brand impersonation and urgent verification lure",
+        "Suspicious redirect chain to fake login portal",
+        "Credential dump indicator and suspicious login",
+        "Mailbox rule activity after account compromise"
+    ],
+    "evidence_count": 5,
+    "highest_threat_score": 95
+}

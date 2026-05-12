@@ -1,0 +1,12 @@
+{
+    "file": "usb_activity.log",
+    "prediction": "Critical",
+    "threat_score": 92,
+    "confidence": 96,
+    "reasons": [
+        "USB transfer during off-hours",
+        "Large write to removable media",
+        "Hidden archive filename"
+    ],
+    "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+}

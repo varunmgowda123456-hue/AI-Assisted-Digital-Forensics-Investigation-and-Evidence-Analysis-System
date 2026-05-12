@@ -1,0 +1,12 @@
+{
+    "file": "suspicious_ips.csv",
+    "prediction": "Suspicious",
+    "threat_score": 82,
+    "confidence": 91,
+    "reasons": [
+        "High login attempt count",
+        "Suspicious relay indicator",
+        "Repeated source IP"
+    ],
+    "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+}

@@ -1,0 +1,12 @@
+{
+    "file": "failed_logins.log",
+    "prediction": "Critical",
+    "threat_score": 94,
+    "confidence": 96,
+    "reasons": [
+        "Repeated login failures",
+        "Brute force pattern",
+        "Successful login after failures"
+    ],
+    "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+}

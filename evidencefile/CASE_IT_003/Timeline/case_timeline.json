@@ -1,0 +1,51 @@
+[
+    {
+        "timestamp": "2026-05-12 01:45:00",
+        "event": "Failed Admin Login",
+        "description": "Admin and service account failures from 10.0.0.45.",
+        "severity": "medium",
+        "source": "insider"
+    },
+    {
+        "timestamp": "2026-05-12 02:10:00",
+        "event": "Suspicious Browsing",
+        "description": "Cloud storage and log-clearing searches observed.",
+        "severity": "high",
+        "source": "insider"
+    },
+    {
+        "timestamp": "2026-05-12 02:12:00",
+        "event": "Off-Hours Login",
+        "description": "jdoe authenticated outside normal work hours.",
+        "severity": "high",
+        "source": "insider"
+    },
+    {
+        "timestamp": "2026-05-12 02:30:00",
+        "event": "Credential File Accessed",
+        "description": "passwords.txt created or accessed.",
+        "severity": "critical",
+        "source": "insider"
+    },
+    {
+        "timestamp": "2026-05-12 02:45:00",
+        "event": "USB Inserted",
+        "description": "Kingston removable media connected.",
+        "severity": "critical",
+        "source": "insider"
+    },
+    {
+        "timestamp": "2026-05-12 02:47:00",
+        "event": "Hidden Archive Written",
+        "description": "Large hidden archive written to removable drive.",
+        "severity": "critical",
+        "source": "insider"
+    },
+    {
+        "timestamp": "2026-05-12 03:05:00",
+        "event": "USB Removed",
+        "description": "Device safely removed after transfer window.",
+        "severity": "high",
+        "source": "insider"
+    }
+]

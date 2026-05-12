@@ -1,0 +1,7 @@
+Unauthorized Access Investigation - SSH Brute Force and Privilege Escalation
+============================================================================
+
+The unauthorized access case shows brute force authentication attempts, a successful admin login, privilege escalation behavior, and suspicious remote file transfer activity.
+
+Conclusion:
+Evidence supports a critical unauthorized access incident requiring credential rotation, source host containment, log preservation, and privilege configuration review.

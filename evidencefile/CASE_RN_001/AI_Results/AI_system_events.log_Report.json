@@ -1,0 +1,12 @@
+{
+    "file": "system_events.log",
+    "prediction": "Suspicious",
+    "threat_score": 86,
+    "confidence": 93,
+    "reasons": [
+        "Backup service disabled",
+        "Volume shadow service stopped",
+        "Correlates with encryption window"
+    ],
+    "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+}

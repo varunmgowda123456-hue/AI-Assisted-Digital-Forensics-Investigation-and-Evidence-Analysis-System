@@ -1,0 +1,12 @@
+{
+    "file": "ransom_note.txt",
+    "prediction": "Critical",
+    "threat_score": 98,
+    "confidence": 97,
+    "reasons": [
+        "Ransom note language detected",
+        "Payment demand identified",
+        "File recovery coercion observed"
+    ],
+    "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+}

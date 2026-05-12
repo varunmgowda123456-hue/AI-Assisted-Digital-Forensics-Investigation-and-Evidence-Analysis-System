@@ -1,0 +1,17 @@
+{
+    "case_id": "CASE_UA_005",
+    "title": "Unauthorized Access Investigation - SSH Brute Force and Privilege Escalation",
+    "type": "Unauthorized Access Investigation",
+    "threat_level": "Critical",
+    "status": "Active",
+    "executive_summary": "The unauthorized access case shows brute force authentication attempts, a successful admin login, privilege escalation behavior, and suspicious remote file transfer activity.",
+    "forensic_conclusion": "Evidence supports a critical unauthorized access incident requiring credential rotation, source host containment, log preservation, and privilege configuration review.",
+    "key_findings": [
+        "Brute force pattern followed by successful login",
+        "Privilege escalation to root",
+        "Remote session and sensitive file transfer indicator",
+        "Repeated suspicious source IP"
+    ],
+    "evidence_count": 5,
+    "highest_threat_score": 96
+}

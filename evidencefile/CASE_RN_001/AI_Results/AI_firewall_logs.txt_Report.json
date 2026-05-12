@@ -1,0 +1,12 @@
+{
+    "file": "firewall_logs.txt",
+    "prediction": "Suspicious",
+    "threat_score": 88,
+    "confidence": 91,
+    "reasons": [
+        "External command-and-control style traffic",
+        "High-risk destination port",
+        "Multiple finance hosts involved"
+    ],
+    "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+}

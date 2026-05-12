@@ -1,0 +1,12 @@
+{
+    "file": "suspicious_processes.log",
+    "prediction": "Critical",
+    "threat_score": 95,
+    "confidence": 96,
+    "reasons": [
+        "Shadow copy deletion command",
+        "Suspicious executable from public user directory",
+        "Recovery controls disabled"
+    ],
+    "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+}

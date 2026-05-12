@@ -1,0 +1,12 @@
+{
+    "file": "social_media_activity.log",
+    "prediction": "Suspicious",
+    "threat_score": 84,
+    "confidence": 91,
+    "reasons": [
+        "Public harassment escalation",
+        "Coordinated amplification",
+        "Multiple platform reports"
+    ],
+    "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+}

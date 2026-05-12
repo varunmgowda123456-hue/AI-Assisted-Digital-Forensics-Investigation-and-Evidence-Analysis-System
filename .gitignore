@@ -1,0 +1,22 @@
+# ForensIQ .gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+*.sqlite3
+*.ledger
+quarantine_vault/
+static/reports/
+static/uploads/
+static/evidence/
+instance/
+.DS_Store
+forensics_training_dataset.csv
+forensics_integrity.ledger
+node_modules/
+.vscode/
+.idea/

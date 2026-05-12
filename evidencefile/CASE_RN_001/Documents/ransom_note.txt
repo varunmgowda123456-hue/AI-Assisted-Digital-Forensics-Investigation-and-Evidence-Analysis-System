@@ -1,0 +1,4 @@
+!!! YOUR BUSINESS FILES HAVE BEEN ENCRYPTED !!!
+All finance department documents were encrypted with a unique key.
+To restore files, contact recovery-support.example and provide ID FIN-7712.
+Payment demand: 0.75 BTC. Do not rename encrypted files.

@@ -1,0 +1,12 @@
+{
+    "file": "chat_logs.csv",
+    "prediction": "Suspicious",
+    "threat_score": 90,
+    "confidence": 95,
+    "reasons": [
+        "High toxicity scores",
+        "Multiple senders targeting one victim",
+        "Threatening and coercive statements"
+    ],
+    "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+}

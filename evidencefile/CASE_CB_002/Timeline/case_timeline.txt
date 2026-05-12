@@ -1,0 +1,5 @@
+2026-05-11 14:22:00 | HIGH | Initial Threat Message | First direct threat sent to victim.
+2026-05-11 15:03:00 | HIGH | Group Harassment | Multiple senders began messaging victim.
+2026-05-11 16:00:00 | CRITICAL | Public Social Post | Harassment escalated to public social media.
+2026-05-11 16:06:00 | MEDIUM | Platform Reports Filed | Multiple harassment reports submitted.
+2026-05-11 17:40:00 | MEDIUM | Counselor Notification | Incident reported to guardian and school counselor.

@@ -1,0 +1,483 @@
+﻿d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:8:1: F401 'uuid' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:12:1: F401 'functools.wraps' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:14:1: F401 'flask.redirect' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:14:1: F401 'flask.url_for' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:14:1: F401 'flask.flash' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:14:1: F401 'flask.jsonify' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:14:1: F401 'flask.session' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:14:1: F401 'flask.send_file' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:14:1: F401 'flask.abort' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:14:1: F401 'flask.g' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:18:1: F401 'flask_login.login_user' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:18:1: F401 'flask_login.logout_user' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:22:1: F401 'werkzeug.utils.secure_filename' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:25:1: F401 'database.AnalysisResult' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:25:1: F401 'database.AIAnalysis' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:25:1: F401 'database.TimelineEvent' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:25:1: F401 'database.InvestigatorNote' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:25:1: F401 'database.EvidenceHash' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:25:80: E501 line too long (138 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:28:1: F401 'modules.integrity_checker.compute_hashes' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:28:1: F401 'modules.integrity_checker.verify_integrity' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:29:1: F401 'modules.evidence_parser.parse_evidence' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:30:1: F401 'modules.email_forensics.analyze_email' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:31:1: F401 'modules.browser_forensics.analyze_browser_history' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:32:1: F401 'modules.ai_correlation_engine.correlate_case_evidence' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:32:1: F401 'modules.ai_correlation_engine.generate_case_summary' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:32:80: E501 line too long (88 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:33:1: F401 'modules.timeline_engine.build_timeline' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:34:1: F401 'modules.chatbot_assistant.get_ai_response' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:35:1: F401 'modules.report_generator.generate_pdf_report' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:49:5: F841 local variable 'csrf' is assigned to but never used
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:53:80: E501 line too long (83 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:65:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:96:80: E501 line too long (83 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:97:80: E501 line too long (97 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:98:80: E501 line too long (118 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:104:80: E501 line too long (124 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:111:80: E501 line too long (88 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:117:80: E501 line too long (94 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:120:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:122:80: E501 line too long (93 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:133:80: E501 line too long (130 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:173:80: E501 line too long (100 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\app.py:191:1: E402 module level import not at top of file
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\config.py:50:80: E501 line too long (108 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\config.py:51:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\config.py:69:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:24:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:27:80: E501 line too long (92 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:40:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:61:80: E501 line too long (94 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:62:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:63:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:66:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:68:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:72:80: E501 line too long (104 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:73:80: E501 line too long (116 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:74:80: E501 line too long (109 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:75:80: E501 line too long (109 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:90:80: E501 line too long (83 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:95:80: E501 line too long (94 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:105:80: E501 line too long (96 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:116:80: E501 line too long (122 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:127:80: E501 line too long (85 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:128:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:156:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:171:80: E501 line too long (94 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:174:80: E501 line too long (85 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:175:80: E501 line too long (96 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:192:80: E501 line too long (97 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:203:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\database.py:215:80: E501 line too long (85 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:1:1: F401 'os' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:2:1: F401 'random' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:6:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:8:1: F401 'werkzeug.security.generate_password_hash' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:10:1: E302 expected 2 blank lines, found 1
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:31:80: E501 line too long (198 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:50:80: E501 line too long (141 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:59:80: E501 line too long (137 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:68:80: E501 line too long (136 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:77:80: E501 line too long (127 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:86:80: E501 line too long (152 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:95:80: E501 line too long (114 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:111:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:116:80: E501 line too long (185 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:121:80: E501 line too long (141 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:122:80: E501 line too long (95 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:136:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:146:80: E501 line too long (207 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:147:80: E501 line too long (115 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:158:80: E501 line too long (138 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:159:80: E501 line too long (138 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:162:80: E501 line too long (161 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:163:80: E501 line too long (167 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:164:80: E501 line too long (181 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:167:80: E501 line too long (95 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\generate_scenario.py:169:1: E305 expected 2 blank lines after class or function definition, found 1
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:7:1: F401 're' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:14:1: E302 expected 2 blank lines, found 1
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:30:80: E501 line too long (101 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:31:80: E501 line too long (110 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:32:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:33:80: E501 line too long (92 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:42:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:93:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:99:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:100:80: W291 trailing whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:101:80: E501 line too long (101 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:129:80: E501 line too long (114 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:131:18: F541 f-string is missing placeholders
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:145:80: E501 line too long (89 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:149:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:154:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:156:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:158:80: E501 line too long (88 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:160:80: E501 line too long (89 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:162:80: E501 line too long (95 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:170:80: E501 line too long (83 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:171:80: E501 line too long (100 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:215:80: E501 line too long (88 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:237:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:246:9: F401 'numpy as np' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:266:5: F841 local variable 'e' is assigned to but never used
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ai_correlation_engine.py:280:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\browser_forensics.py:3:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\browser_forensics.py:11:1: F401 'config.Config' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\browser_forensics.py:62:9: F841 local variable 'title' is assigned to but never used
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\browser_forensics.py:100:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\browser_forensics.py:103:80: E501 line too long (87 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\browser_forensics.py:109:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\browser_forensics.py:120:80: E501 line too long (119 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\browser_forensics.py:122:80: E501 line too long (100 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\browser_forensics.py:131:80: E501 line too long (101 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\browser_forensics.py:133:5: F841 local variable 'e' is assigned to but never used
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\browser_forensics.py:170:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:3:80: E501 line too long (100 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:7:1: F401 'json' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:8:1: F401 'datetime.datetime' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:11:80: E501 line too long (88 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:12:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:14:1: E302 expected 2 blank lines, found 1
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:25:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:29:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:32:24: E701 multiple statements on one line (colon)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:33:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:39:80: E501 line too long (105 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:40:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:41:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:44:80: E501 line too long (105 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:45:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:49:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:52:80: E501 line too long (124 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:54:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:58:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:60:80: E501 line too long (83 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:62:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:66:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:71:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chat_forensics.py:74:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:6:1: F401 're' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:14:1: E302 expected 2 blank lines, found 1
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:24:1: E305 expected 2 blank lines after class or function definition, found 1
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:25:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:26:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:27:80: E501 line too long (82 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:29:80: E501 line too long (92 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:38:80: E501 line too long (137 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:47:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:64:80: E501 line too long (113 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:83:80: E501 line too long (85 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:94:80: E501 line too long (93 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:97:80: E501 line too long (89 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:107:80: E501 line too long (87 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:110:80: E501 line too long (89 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:121:80: E501 line too long (112 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:124:80: E501 line too long (108 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:125:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:128:80: E501 line too long (82 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:129:80: E501 line too long (82 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:130:80: E501 line too long (119 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:131:80: E501 line too long (85 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:134:80: E501 line too long (82 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:135:80: E501 line too long (133 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:140:80: E501 line too long (103 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:168:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:170:80: E501 line too long (89 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:172:80: E501 line too long (95 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:174:80: E501 line too long (94 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:176:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:178:80: E501 line too long (89 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:180:80: E501 line too long (97 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:182:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:190:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:191:80: E501 line too long (101 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:192:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:201:80: E501 line too long (113 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:208:80: E501 line too long (138 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:222:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\chatbot_assistant.py:233:80: E501 line too long (130 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\email_forensics.py:7:1: F401 'json' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\email_forensics.py:8:1: F401 'email' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\email_forensics.py:11:1: F401 'datetime.datetime' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\email_forensics.py:16:80: E501 line too long (85 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\email_forensics.py:57:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\email_forensics.py:62:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\email_forensics.py:89:80: E501 line too long (82 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\email_forensics.py:100:80: E501 line too long (83 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\email_forensics.py:102:80: E501 line too long (92 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\email_forensics.py:107:80: E501 line too long (92 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\email_forensics.py:123:80: E501 line too long (93 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\email_forensics.py:126:80: E501 line too long (95 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\email_forensics.py:132:27: F541 f-string is missing placeholders
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:69:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:70:80: E501 line too long (83 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:83:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:128:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:138:80: E501 line too long (82 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:151:13: E306 expected 1 blank line before a nested definition, found 0
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:160:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:170:80: E501 line too long (98 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:237:80: E501 line too long (94 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:248:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:269:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:275:80: E501 line too long (97 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:278:80: E501 line too long (97 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:288:80: E501 line too long (82 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:307:80: E501 line too long (111 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:314:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\evidence_parser.py:323:80: E501 line too long (85 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\integrity_checker.py:53:80: E501 line too long (106 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:3:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:6:80: E501 line too long (82 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:12:1: F401 'hashlib' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:13:1: F401 'numpy as np' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:30:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:39:80: E501 line too long (89 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:65:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:80:80: E501 line too long (82 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:84:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:87:5: F841 local variable 'image_exts' is assigned to but never used
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:88:5: F841 local variable 'doc_exts' is assigned to but never used
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:91:80: E501 line too long (105 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:93:80: E501 line too long (113 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:116:80: E501 line too long (87 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:120:9: F811 redefinition of unused 'np' from line 13
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:157:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:194:9: F811 redefinition of unused 'np' from line 13
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:253:5: F841 local variable 'e' is assigned to but never used
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:254:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:257:80: E501 line too long (85 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:267:80: E501 line too long (109 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:269:80: E501 line too long (95 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:271:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:275:80: E501 line too long (125 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:277:80: E501 line too long (113 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:280:80: E501 line too long (100 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:283:80: E501 line too long (119 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:286:80: E501 line too long (119 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:290:80: E501 line too long (102 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:292:80: E501 line too long (102 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:295:80: E501 line too long (97 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:298:80: E501 line too long (127 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:301:80: E501 line too long (128 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:304:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\ml_threat_engine.py:320:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:6:1: F401 'json' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:9:1: F401 'pathlib.Path' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:24:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:25:9: F401 'reportlab.lib.enums.TA_CENTER' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:25:9: F401 'reportlab.lib.enums.TA_LEFT' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:27:80: E501 line too long (100 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:37:35: E127 continuation line over-indented for visual indent
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:37:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:38:35: E127 continuation line over-indented for visual indent
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:40:26: E127 continuation line over-indented for visual indent
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:40:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:42:26: E127 continuation line over-indented for visual indent
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:42:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:43:80: E501 line too long (82 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:45:31: E127 continuation line over-indented for visual indent
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:45:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:47:35: E127 continuation line over-indented for visual indent
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:47:80: E501 line too long (83 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:48:35: E127 continuation line over-indented for visual indent
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:48:80: E501 line too long (83 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:56:80: E501 line too long (85 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:57:80: E501 line too long (89 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:67:80: E501 line too long (87 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:71:24: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:71:32: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:72:24: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:72:32: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:73:24: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:73:31: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:74:25: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:74:32: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:75:30: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:75:38: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:75:80: E501 line too long (87 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:76:20: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:76:28: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:77:26: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:77:34: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:78:29: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:78:37: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:85:80: E501 line too long (111 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:86:80: E501 line too long (118 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:88:80: E501 line too long (98 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:95:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:96:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:107:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:109:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:118:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:120:26: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:120:34: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:121:25: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:121:33: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:122:24: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:122:32: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:123:24: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:123:32: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:124:30: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:124:38: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:124:80: E501 line too long (87 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:125:20: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:125:28: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:126:26: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:126:34: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:127:29: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:127:37: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:134:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:143:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:146:80: E501 line too long (93 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:154:80: E501 line too long (132 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:159:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:172:30: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:172:38: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:173:29: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:173:37: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:174:28: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:174:36: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:175:28: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:175:36: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:176:34: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:176:42: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:176:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:177:24: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:177:32: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:178:30: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:178:38: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:179:33: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:179:41: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:191:80: E501 line too long (107 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:197:80: E501 line too long (89 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:199:80: E501 line too long (108 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:200:80: E501 line too long (112 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:201:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:208:80: E501 line too long (97 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:221:80: E501 line too long (97 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:224:42: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:224:63: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\report_generator.py:224:80: E501 line too long (100 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\timeline_engine.py:8:1: F401 'datetime.datetime' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\timeline_engine.py:15:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\timeline_engine.py:61:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\timeline_engine.py:66:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\timeline_engine.py:70:80: E501 line too long (87 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\timeline_engine.py:71:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\timeline_engine.py:75:80: E501 line too long (89 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\timeline_engine.py:91:80: E501 line too long (93 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\timeline_engine.py:96:80: E501 line too long (101 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\timeline_engine.py:110:49: E701 multiple statements on one line (colon)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\modules\timeline_engine.py:125:80: E501 line too long (116 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:7:80: E501 line too long (88 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:11:1: F401 'database.Evidence' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:12:80: E501 line too long (88 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:22:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:26:80: E501 line too long (89 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:31:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:45:80: E501 line too long (92 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:46:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:48:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:54:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:55:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:96:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:104:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:122:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\analysis.py:127:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\api.py:2:1: F401 'routes.reports_api.api_bp' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\auth.py:7:1: F401 'flask.session' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\auth.py:7:80: E501 line too long (88 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\auth.py:33:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\cases.py:8:1: F401 'flask.abort' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\cases.py:8:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\cases.py:10:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\cases.py:38:80: E501 line too long (82 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\cases.py:79:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\cases.py:82:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\cases.py:83:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\cases.py:90:80: E501 line too long (93 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\cases.py:101:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\cases.py:117:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\cases.py:136:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:9:1: F401 'pathlib.Path' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:10:80: E501 line too long (101 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:37:80: E501 line too long (89 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:51:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:66:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:83:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:154:80: E501 line too long (102 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:156:80: E501 line too long (84 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:166:80: E501 line too long (126 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:166:84: E231 missing whitespace after ','
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:174:80: E501 line too long (101 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:184:80: E501 line too long (94 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:202:80: E501 line too long (107 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:218:80: E501 line too long (87 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:230:80: E501 line too long (108 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:241:80: E501 line too long (87 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:244:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:254:80: E501 line too long (82 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:257:80: E501 line too long (83 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:258:80: E501 line too long (106 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:267:80: E501 line too long (87 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\evidence.py:277:80: E501 line too long (94 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports.py:2:1: F401 'routes.reports_api.reports_bp' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports.py:2:1: F401 'routes.reports_api.api_bp' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:8:1: F401 'flask.request' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:8:80: E501 line too long (82 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:11:1: F401 'database.AIAnalysis' imported but unused
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:11:80: E501 line too long (94 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:21:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:39:80: E501 line too long (85 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:40:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:57:80: E501 line too long (117 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:59:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:78:80: E501 line too long (93 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:82:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:95:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:98:80: E501 line too long (83 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:108:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:111:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\AI-Assisted-Digital-Forensics-Investigation-System\routes\reports_api.py:124:13: E741 ambiguous variable name 'l'
+d:\Antigravity\Antigravity\cc and cf\evidencefile\CASE_001\Suspicious_Files\suspicious_script.py:1:1: F401 'time' imported but unused
+d:\Antigravity\Antigravity\cc and cf\evidencefile\CASE_001\Suspicious_Files\suspicious_script.py:1:10: E401 multiple imports on one line
+d:\Antigravity\Antigravity\cc and cf\evidencefile\CASE_001\Suspicious_Files\suspicious_script.py:3:19: W605 invalid escape sequence '\P'
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:9:57: W291 trailing whitespace
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:10:61: W291 trailing whitespace
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:14:1: E302 expected 2 blank lines, found 1
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:18:1: E302 expected 2 blank lines, found 1
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:26:1: E302 expected 2 blank lines, found 1
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:35:1: E302 expected 2 blank lines, found 1
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:49:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:52:80: E501 line too long (90 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:61:80: E501 line too long (120 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:64:80: E501 line too long (103 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:77:80: E501 line too long (80 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:78:80: E501 line too long (137 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:79:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:83:46: E261 at least two spaces before inline comment
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:83:80: E501 line too long (91 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:84:80: E501 line too long (100 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:85:80: E501 line too long (96 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:93:80: E501 line too long (123 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:98:80: E501 line too long (230 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:99:80: E501 line too long (168 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:109:1: W293 blank line contains whitespace
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:150:80: E501 line too long (107 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:153:80: E501 line too long (97 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:156:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:161:80: E501 line too long (81 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:164:80: E501 line too long (86 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:172:80: E501 line too long (124 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:172:125: W291 trailing whitespace
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:173:80: E501 line too long (120 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:174:80: E501 line too long (118 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:174:119: W291 trailing whitespace
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:175:80: E501 line too long (134 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:176:80: E501 line too long (117 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:176:118: W291 trailing whitespace
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:177:80: E501 line too long (85 > 79 characters)
+d:\Antigravity\Antigravity\cc and cf\evidencefile\generate_dataset.py:183:1: E305 expected 2 blank lines after class or function definition, found 1

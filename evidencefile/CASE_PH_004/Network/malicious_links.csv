@@ -1,0 +1,3 @@
+URL,FINAL_URL,REASON,RISK
+http://verify-microsoft-login.example/auth/session/928374,http://login-cdn-secure.example/portal,Lookalike credential portal,High
+http://bit.ly/training-secure-redirect,http://verify-microsoft-login.example/auth,Shortened redirect,Medium

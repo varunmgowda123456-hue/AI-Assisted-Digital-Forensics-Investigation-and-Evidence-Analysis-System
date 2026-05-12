@@ -1,0 +1,12 @@
+{
+    "file": "privilege_escalation.log",
+    "prediction": "Critical",
+    "threat_score": 96,
+    "confidence": 98,
+    "reasons": [
+        "Privilege escalation sequence",
+        "SUID discovery",
+        "Root access obtained"
+    ],
+    "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+}

@@ -1,0 +1,5 @@
+TIMESTAMP,PLATFORM,SENDER,RECEIVER,MESSAGE,TOXICITY_SCORE
+2026-05-11 14:22:10,ChatApp,user_alpha,victim,"Stay away from school tomorrow.",0.82
+2026-05-11 14:27:04,ChatApp,user_alpha,victim,"If you report this, everyone will see the screenshots.",0.91
+2026-05-11 15:03:41,ChatApp,user_beta,victim,"We made a group just to expose you.",0.87
+2026-05-11 15:22:18,ChatApp,user_gamma,victim,"Delete your profile before we do it for you.",0.76

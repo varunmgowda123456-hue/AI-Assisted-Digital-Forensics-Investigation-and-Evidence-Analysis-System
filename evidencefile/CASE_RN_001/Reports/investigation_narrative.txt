@@ -1,0 +1,7 @@
+Ransomware Attack Investigation - Finance Workstation Cluster
+=============================================================
+
+Finance workstations show a coordinated ransomware sequence: backup disruption, shadow copy deletion, suspicious executable activity, mass encryption, and ransom note deployment.
+
+Conclusion:
+Evidence supports a critical ransomware incident requiring containment, host imaging, log preservation, and recovery validation.

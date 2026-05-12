@@ -1,0 +1,11 @@
+{
+    "file": "chat_capture_001.png",
+    "prediction": "Relevant",
+    "threat_score": 72,
+    "confidence": 86,
+    "reasons": [
+        "Screenshot placeholder supports chat evidence",
+        "Preserved as visual corroboration"
+    ],
+    "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+}

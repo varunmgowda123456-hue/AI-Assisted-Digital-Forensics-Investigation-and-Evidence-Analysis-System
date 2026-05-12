@@ -1,0 +1,12 @@
+{
+    "file": "browser_history.csv",
+    "prediction": "Suspicious",
+    "threat_score": 78,
+    "confidence": 90,
+    "reasons": [
+        "Cloud storage browsing",
+        "Log clearing research",
+        "Archive utility download"
+    ],
+    "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+}

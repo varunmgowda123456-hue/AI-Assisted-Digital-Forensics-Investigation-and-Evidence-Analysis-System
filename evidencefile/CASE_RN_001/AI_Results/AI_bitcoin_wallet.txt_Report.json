@@ -1,0 +1,11 @@
+{
+    "file": "bitcoin_wallet.txt",
+    "prediction": "Suspicious",
+    "threat_score": 82,
+    "confidence": 92,
+    "reasons": [
+        "Cryptocurrency payment indicator",
+        "Correlated with ransom demand"
+    ],
+    "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+}

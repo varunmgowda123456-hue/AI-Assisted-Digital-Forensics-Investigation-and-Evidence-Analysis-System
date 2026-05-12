@@ -1,0 +1,17 @@
+{
+    "case_id": "CASE_RN_001",
+    "title": "Ransomware Attack Investigation - Finance Workstation Cluster",
+    "type": "Ransomware Attack",
+    "threat_level": "Critical",
+    "status": "In Progress",
+    "executive_summary": "Finance workstations show a coordinated ransomware sequence: backup disruption, shadow copy deletion, suspicious executable activity, mass encryption, and ransom note deployment.",
+    "forensic_conclusion": "Evidence supports a critical ransomware incident requiring containment, host imaging, log preservation, and recovery validation.",
+    "key_findings": [
+        "Mass encryption across finance workstations",
+        "Shadow copy deletion and backup-service disruption",
+        "Ransom note and payment indicator present",
+        "External command-and-control style traffic observed"
+    ],
+    "evidence_count": 7,
+    "highest_threat_score": 98
+}

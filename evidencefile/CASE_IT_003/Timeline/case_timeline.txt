@@ -1,0 +1,7 @@
+2026-05-12 01:45:00 | MEDIUM | Failed Admin Login | Admin and service account failures from 10.0.0.45.
+2026-05-12 02:10:00 | HIGH | Suspicious Browsing | Cloud storage and log-clearing searches observed.
+2026-05-12 02:12:00 | HIGH | Off-Hours Login | jdoe authenticated outside normal work hours.
+2026-05-12 02:30:00 | CRITICAL | Credential File Accessed | passwords.txt created or accessed.
+2026-05-12 02:45:00 | CRITICAL | USB Inserted | Kingston removable media connected.
+2026-05-12 02:47:00 | CRITICAL | Hidden Archive Written | Large hidden archive written to removable drive.
+2026-05-12 03:05:00 | HIGH | USB Removed | Device safely removed after transfer window.

@@ -1,0 +1,2 @@
+Wallet observed in ransom note: bc1qtrainingonly000000000000000000000000000
+Case note: placeholder wallet for training data only.

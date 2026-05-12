@@ -1,0 +1,37 @@
+[
+    {
+        "timestamp": "2026-05-11 14:22:00",
+        "event": "Initial Threat Message",
+        "description": "First direct threat sent to victim.",
+        "severity": "high",
+        "source": "communications"
+    },
+    {
+        "timestamp": "2026-05-11 15:03:00",
+        "event": "Group Harassment",
+        "description": "Multiple senders began messaging victim.",
+        "severity": "high",
+        "source": "communications"
+    },
+    {
+        "timestamp": "2026-05-11 16:00:00",
+        "event": "Public Social Post",
+        "description": "Harassment escalated to public social media.",
+        "severity": "critical",
+        "source": "communications"
+    },
+    {
+        "timestamp": "2026-05-11 16:06:00",
+        "event": "Platform Reports Filed",
+        "description": "Multiple harassment reports submitted.",
+        "severity": "medium",
+        "source": "communications"
+    },
+    {
+        "timestamp": "2026-05-11 17:40:00",
+        "event": "Counselor Notification",
+        "description": "Incident reported to guardian and school counselor.",
+        "severity": "medium",
+        "source": "communications"
+    }
+]

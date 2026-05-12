@@ -1,0 +1,12 @@
+{
+    "file": "abusive_messages.txt",
+    "prediction": "Suspicious",
+    "threat_score": 88,
+    "confidence": 94,
+    "reasons": [
+        "Threatening language detected",
+        "Coercion and intimidation pattern",
+        "Repeated targeted messages"
+    ],
+    "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+}

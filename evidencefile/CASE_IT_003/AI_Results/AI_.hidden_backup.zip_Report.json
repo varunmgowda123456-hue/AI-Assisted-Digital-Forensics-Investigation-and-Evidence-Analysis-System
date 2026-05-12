@@ -1,0 +1,12 @@
+{
+    "file": ".hidden_backup.zip",
+    "prediction": "Critical",
+    "threat_score": 96,
+    "confidence": 98,
+    "reasons": [
+        "Hidden archive detected",
+        "High entropy content",
+        "Correlated with USB write event"
+    ],
+    "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+}

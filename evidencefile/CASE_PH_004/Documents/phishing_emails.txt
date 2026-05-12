@@ -1,0 +1,8 @@
+From: Microsoft Security <no-reply@microsoft-security-verify.example>
+To: target_user@enterprise.example
+Subject: Urgent: Verify your account immediately
+Date: 2026-05-11 09:31:10
+
+We detected unusual activity. Validate your identity at:
+http://verify-microsoft-login.example/auth/session/928374
+Failure to act may suspend access.

@@ -1,0 +1,6 @@
+2026-05-10 22:50:00 | HIGH | Backup Service Disabled | Backup Exec Agent changed to disabled on FIN-WS-014.
+2026-05-10 22:57:00 | CRITICAL | Suspicious Executable Started | svhost-update.exe launched from public user directory.
+2026-05-10 22:58:00 | CRITICAL | Shadow Copies Deleted | vssadmin delete shadows command succeeded.
+2026-05-10 23:11:00 | CRITICAL | Mass Encryption Began | Finance documents renamed with .locked extension.
+2026-05-10 23:13:00 | CRITICAL | Ransom Note Dropped | ransom_note.txt created in affected user folders.
+2026-05-10 23:15:00 | HIGH | Outbound C2 Traffic | Firewall logged repeated outbound connections to 185.22.45.101.

@@ -1,0 +1,5 @@
+TIMESTAMP,HOST,FILE_PATH,OLD_EXTENSION,NEW_EXTENSION,STATUS
+2026-05-10 23:11:22,FIN-WS-014,C:\Finance\Payroll_Q2.xlsx,.xlsx,.locked,ENCRYPTED
+2026-05-10 23:11:24,FIN-WS-014,C:\Finance\Budget_2026.pdf,.pdf,.locked,ENCRYPTED
+2026-05-10 23:11:27,FIN-WS-014,C:\Finance\Tax_Workpapers.zip,.zip,.locked,ENCRYPTED
+2026-05-10 23:12:03,FIN-WS-018,C:\Shared\Invoices\May.csv,.csv,.locked,ENCRYPTED

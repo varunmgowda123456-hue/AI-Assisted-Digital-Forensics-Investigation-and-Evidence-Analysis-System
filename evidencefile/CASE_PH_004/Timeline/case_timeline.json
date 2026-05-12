@@ -1,0 +1,44 @@
+[
+    {
+        "timestamp": "2026-05-11 09:31:00",
+        "event": "Phishing Email Delivered",
+        "description": "Lookalike Microsoft security email delivered.",
+        "severity": "high",
+        "source": "phishing"
+    },
+    {
+        "timestamp": "2026-05-11 09:41:00",
+        "event": "Victim Clicked Link",
+        "description": "Redirect to fake login portal observed.",
+        "severity": "high",
+        "source": "phishing"
+    },
+    {
+        "timestamp": "2026-05-11 09:48:00",
+        "event": "Fake Portal Captured",
+        "description": "Screenshot preserved for fake login page.",
+        "severity": "medium",
+        "source": "phishing"
+    },
+    {
+        "timestamp": "2026-05-11 10:04:00",
+        "event": "Credential Harvested",
+        "description": "Credential dump indicator created.",
+        "severity": "critical",
+        "source": "phishing"
+    },
+    {
+        "timestamp": "2026-05-11 10:06:00",
+        "event": "Unauthorized Login",
+        "description": "Target account accessed from suspicious IP.",
+        "severity": "critical",
+        "source": "phishing"
+    },
+    {
+        "timestamp": "2026-05-11 10:08:00",
+        "event": "Mailbox Rule Created",
+        "description": "Post-compromise mailbox rule observed.",
+        "severity": "high",
+        "source": "phishing"
+    }
+]

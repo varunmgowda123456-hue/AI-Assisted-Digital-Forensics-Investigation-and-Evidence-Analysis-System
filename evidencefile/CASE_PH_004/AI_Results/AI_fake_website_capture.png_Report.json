@@ -1,0 +1,11 @@
+{
+    "file": "fake_website_capture.png",
+    "prediction": "Relevant",
+    "threat_score": 76,
+    "confidence": 88,
+    "reasons": [
+        "Fake website visual capture",
+        "Supports phishing portal analysis"
+    ],
+    "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+}

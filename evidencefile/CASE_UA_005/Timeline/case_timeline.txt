@@ -1,0 +1,6 @@
+2026-05-12 01:00:00 | CRITICAL | Brute Force Started | High-frequency SSH failures from 192.168.50.22.
+2026-05-12 01:05:00 | CRITICAL | Initial Access | Admin login accepted after repeated failures.
+2026-05-12 01:10:00 | HIGH | Privilege Discovery | sudo and SUID discovery commands executed.
+2026-05-12 01:12:00 | CRITICAL | Privilege Escalation | Effective UID changed to root.
+2026-05-12 01:15:00 | HIGH | Remote Session | New SSH session established.
+2026-05-12 01:19:00 | CRITICAL | Sensitive File Transfer | SCP transfer of shadow file indicator.

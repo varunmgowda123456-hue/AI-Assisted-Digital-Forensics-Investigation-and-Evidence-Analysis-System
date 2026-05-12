@@ -1,0 +1,12 @@
+{
+    "file": "phishing_emails.txt",
+    "prediction": "Critical",
+    "threat_score": 92,
+    "confidence": 96,
+    "reasons": [
+        "Brand impersonation",
+        "Urgency language",
+        "Credential harvesting URL"
+    ],
+    "recommended_action": "Preserve immediately, escalate to incident commander, and validate chain of custody."
+}

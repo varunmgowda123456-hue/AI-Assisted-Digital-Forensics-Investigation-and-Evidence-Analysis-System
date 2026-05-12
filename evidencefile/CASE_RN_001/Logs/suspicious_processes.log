@@ -1,0 +1,4 @@
+[2026-05-10 22:57:11] Process Created: C:\Users\Public\svhost-update.exe PID=4412 Parent=explorer.exe
+[2026-05-10 22:58:02] svhost-update.exe spawned vssadmin.exe delete shadows /all /quiet
+[2026-05-10 23:00:44] svhost-update.exe opened 1,842 file handles under C:\Finance
+[2026-05-10 23:08:17] Process Created: bcdedit.exe /set {default} recoveryenabled No

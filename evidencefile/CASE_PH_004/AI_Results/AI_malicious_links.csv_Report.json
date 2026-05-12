@@ -1,0 +1,12 @@
+{
+    "file": "malicious_links.csv",
+    "prediction": "Suspicious",
+    "threat_score": 89,
+    "confidence": 94,
+    "reasons": [
+        "Suspicious redirect chain",
+        "Lookalike login domain",
+        "URL shortener observed"
+    ],
+    "recommended_action": "Prioritize analyst review and correlate with timeline, users, hosts, and network indicators."
+}

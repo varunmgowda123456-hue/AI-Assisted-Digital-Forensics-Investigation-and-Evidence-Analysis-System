@@ -1,0 +1,11 @@
+{
+    "file": "email_records.txt",
+    "prediction": "Relevant",
+    "threat_score": 58,
+    "confidence": 84,
+    "reasons": [
+        "Corroborating report",
+        "Victim disclosure timeline evidence"
+    ],
+    "recommended_action": "Retain as supporting evidence."
+}

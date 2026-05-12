@@ -1,0 +1,17 @@
+{
+    "case_id": "CASE_IT_003",
+    "title": "Insider Data Theft Investigation - Project Titan",
+    "type": "Insider Data Theft Investigation",
+    "threat_level": "Critical",
+    "status": "Active",
+    "executive_summary": "The insider theft evidence shows off-hours access, credential exposure, cloud storage research, USB insertion, and hidden archive transfer activity.",
+    "forensic_conclusion": "Evidence supports a critical insider data theft investigation. Preserve endpoint image, removable media, authentication logs, and cloud access logs.",
+    "key_findings": [
+        "Off-hours login after failed privileged access attempts",
+        "Credential exposure artifact present",
+        "Cloud upload research and removable media transfer",
+        "Hidden archive creation with high entropy"
+    ],
+    "evidence_count": 6,
+    "highest_threat_score": 96
+}
