@@ -1,0 +1,3 @@
+[2026-05-12 02:35:01] EVENT ID 4688: A new process has been created. Process Name: C:\Program Files\7-Zip\7z.exe. CommandLine: 7z.exe a -pSECRET -mhe=on E:\.backup_sys.zip \\corp-fs01\Project_Titan\*
+[2026-05-12 02:38:12] EVENT ID 4663: An attempt was made to access an object. Object Name: \\corp-fs01\Project_Titan\Titan_Schematics_Final.pdf. Accesses: ReadData.
+[2026-05-12 02:55:00] EVENT ID 1102: The audit log was cleared. User: jdoe.

@@ -1,0 +1,8 @@
+OPERATION NIGHTSHADE: Investigation Narrative
+-------------------------------------------
+At 02:10 AM, off-hours authentication was detected for the user 'jdoe' following multiple failed attempts on admin accounts. 
+The user proceeded to research methods for clearing Windows Event Logs and visited unauthorized cloud storage platforms.
+Shortly after, a USB device (Kingston DataTraveler) was connected. A python script and 7-Zip were utilized to compress 
+and encrypt sensitive intellectual property (Project Titan) into a hidden archive named '.backup_sys.zip' directly onto the USB drive.
+The USB was removed at 02:45 AM, followed by an email to an external ProtonMail address confirming the data transfer. 
+Finally, the user attempted to clear the Windows Security logs to cover their tracks.

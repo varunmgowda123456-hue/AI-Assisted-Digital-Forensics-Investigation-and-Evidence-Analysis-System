@@ -1,0 +1,6 @@
+TIMESTAMP,URL,ACTION
+2026-05-12 01:15:00,https://www.google.com/search?q=how+to+clear+windows+event+logs,SEARCH
+2026-05-12 01:22:15,https://mega.nz/login,VISIT
+2026-05-12 01:25:30,https://protondrive.com/,VISIT
+2026-05-12 02:20:45,https://github.com/topics/usb-exfiltration,VISIT
+2026-05-12 02:40:10,https://www.7-zip.org/download.html,DOWNLOAD

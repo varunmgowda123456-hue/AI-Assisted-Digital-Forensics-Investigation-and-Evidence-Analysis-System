@@ -1,0 +1,10 @@
+01:15:00 - Suspicious Search: "how to clear windows event logs"
+01:22:15 - Browsing: Visited MEGA.nz (Cloud Storage)
+02:05:33 - Failed Login: Admin account attempt via 10.0.0.45
+02:10:01 - Successful Login: jdoe logged in off-hours via 10.0.0.45
+02:30:15 - USB Inserted: Kingston DataTraveler 3.0
+02:35:01 - Suspicious Process: 7z.exe created encrypted archive (.backup_sys.zip)
+02:38:12 - Bulk File Access: Accessed highly sensitive Project Titan files
+02:45:10 - USB Removed: Device disconnected safely
+02:50:00 - Email Sent: "Upload completed. Delete local copy." sent to external address
+02:55:00 - Log Clearing: Windows Event Security Log cleared by jdoe

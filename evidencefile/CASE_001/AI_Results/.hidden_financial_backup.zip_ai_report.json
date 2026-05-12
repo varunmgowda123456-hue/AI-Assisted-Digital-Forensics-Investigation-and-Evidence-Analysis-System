@@ -1,0 +1,10 @@
+{
+    "threat_score": 0.9,
+    "confidence_score": 0.93,
+    "prediction": "Critical",
+    "reasons": [
+        "Hidden filename detected",
+        "Suspicious extension (zip)",
+        "High entropy/encrypted archive detected"
+    ]
+}

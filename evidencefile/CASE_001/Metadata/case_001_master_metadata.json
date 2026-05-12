@@ -1,0 +1,139 @@
+[
+    {
+        "file": "login_logs.csv",
+        "path": "\\Login_Logs\\login_logs.csv",
+        "size_bytes": 362,
+        "sha256": "9532a7da105417aee6e265a550b6e3f9580ced9ece29d185bc1be70d9ae103fe",
+        "md5": "4e850cdaa82f4841f0f6ca3dfb3e12aa",
+        "hidden_status": false,
+        "ai_analysis": {
+            "threat_score": 0.1,
+            "confidence_score": 0.72,
+            "prediction": "Normal",
+            "reasons": []
+        }
+    },
+    {
+        "file": "browser_history.csv",
+        "path": "\\Browser_History\\browser_history.csv",
+        "size_bytes": 351,
+        "sha256": "1da4d61127cf3b09ba05ef49ff56b3b6d0e8e8bf0642aeabd3c6d8f0bacf4356",
+        "md5": "31c08720dc3be6b9a3b65e3355024399",
+        "hidden_status": false,
+        "ai_analysis": {
+            "threat_score": 0.1,
+            "confidence_score": 0.72,
+            "prediction": "Normal",
+            "reasons": []
+        }
+    },
+    {
+        "file": "usb_activity.log",
+        "path": "\\USB_Logs\\usb_activity.log",
+        "size_bytes": 319,
+        "sha256": "dcead75a1758dea8380f4b179d955874d55d19a7ce52d8bbf58719407de62413",
+        "md5": "0db1b41d5fb5861361ff29713991e4f3",
+        "hidden_status": false,
+        "ai_analysis": {
+            "threat_score": 0.1,
+            "confidence_score": 0.72,
+            "prediction": "Normal",
+            "reasons": []
+        }
+    },
+    {
+        "file": "suspicious_script.py",
+        "path": "\\Suspicious_Files\\suspicious_script.py",
+        "size_bytes": 229,
+        "sha256": "831e3a42defc09bb94ab8494dc9683700667e563f244e5e2c72f9d9c13decd9a",
+        "md5": "156944e02e595a8dc5c66dc4a653d77c",
+        "hidden_status": false,
+        "ai_analysis": {
+            "threat_score": 0.7,
+            "confidence_score": 0.88,
+            "prediction": "Malicious",
+            "reasons": [
+                "Suspicious extension (py)",
+                "Sensitive/suspicious keywords in filename"
+            ]
+        }
+    },
+    {
+        "file": "passwords.txt",
+        "path": "\\Suspicious_Files\\passwords.txt",
+        "size_bytes": 79,
+        "sha256": "710e9f0b8b3c31d78ae388037becc21d77b325a48c3a9ac53dd15d9b108426a3",
+        "md5": "32835635fdc87cdb48e871d6c06da46b",
+        "hidden_status": false,
+        "ai_analysis": {
+            "threat_score": 0.5,
+            "confidence_score": 0.82,
+            "prediction": "Malicious",
+            "reasons": [
+                "Sensitive/suspicious keywords in filename"
+            ]
+        }
+    },
+    {
+        "file": ".hidden_financial_backup.zip",
+        "path": "\\Hidden_Files\\.hidden_financial_backup.zip",
+        "size_bytes": 51200,
+        "sha256": "4206d3edd1f3afef6980c43aa51121be942451cb3d3d1bbe1e59852ce15ce540",
+        "md5": "e8787523002695f9f937be5287f04284",
+        "hidden_status": true,
+        "ai_analysis": {
+            "threat_score": 0.9,
+            "confidence_score": 0.93,
+            "prediction": "Critical",
+            "reasons": [
+                "Hidden filename detected",
+                "Suspicious extension (zip)",
+                "High entropy/encrypted archive detected"
+            ]
+        }
+    },
+    {
+        "file": ".temp_credentials.txt",
+        "path": "\\Hidden_Files\\.temp_credentials.txt",
+        "size_bytes": 34,
+        "sha256": "de5a5a4e04311eb7fd0fbc7c513722909af3f50b464b1f0f6faf0c7d1dc10c97",
+        "md5": "205a25d80f5bdaf434ef21df901e4edf",
+        "hidden_status": true,
+        "ai_analysis": {
+            "threat_score": 0.4,
+            "confidence_score": 0.8,
+            "prediction": "Suspicious",
+            "reasons": [
+                "Hidden filename detected"
+            ]
+        }
+    },
+    {
+        "file": "email_records.txt",
+        "path": "\\Email_Records\\email_records.txt",
+        "size_bytes": 250,
+        "sha256": "87ebe2e4940b7bd0df8b758e7a9ee400ef67b23b542d9c204b801cb3fb9edf03",
+        "md5": "3d4f4b2987385df2d38e3a3be2f65352",
+        "hidden_status": false,
+        "ai_analysis": {
+            "threat_score": 0.1,
+            "confidence_score": 0.72,
+            "prediction": "Normal",
+            "reasons": []
+        }
+    },
+    {
+        "file": "system_events.log",
+        "path": "\\System_Logs\\system_events.log",
+        "size_bytes": 444,
+        "sha256": "e0ce70eab005645ebf6b83fcc60b030784f31cd4d3b5dabf9b7463b611e6951b",
+        "md5": "78a0a9737af5e6913afcad8f3aee2d99",
+        "hidden_status": false,
+        "ai_analysis": {
+            "threat_score": 0.1,
+            "confidence_score": 0.72,
+            "prediction": "Normal",
+            "reasons": []
+        }
+    }
+]

@@ -1,0 +1,4 @@
+[2026-05-12 02:30:15] USBSTOR\Disk&Ven_Kingston&Prod_DataTraveler_3.0&Rev_1.00 - Device Connected
+[2026-05-12 02:30:16] Volume E: mounted successfully.
+[2026-05-12 02:32:00] I/O Write 450MB -> E:\.backup_sys.zip
+[2026-05-12 02:45:10] USBSTOR\Disk&Ven_Kingston&Prod_DataTraveler_3.0&Rev_1.00 - Device Safely Removed

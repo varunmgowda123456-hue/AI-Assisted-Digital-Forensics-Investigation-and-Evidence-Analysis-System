@@ -1,0 +1,9 @@
+{
+    "threat_score": 0.7,
+    "confidence_score": 0.88,
+    "prediction": "Malicious",
+    "reasons": [
+        "Suspicious extension (py)",
+        "Sensitive/suspicious keywords in filename"
+    ]
+}
